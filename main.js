@@ -1,6 +1,7 @@
 function getComputerChoice(){
     const options = ["Rock", "Paper", "Scissors"];
     let choice = options[Math.floor(Math.random() * options.length)];
+    console.log(choice)
     return choice
 }
 
@@ -25,4 +26,12 @@ function playRound(playerSelection, computerSelection) {
     } else {
         return "Invalid input";
     }
+}
+
+
+function playGame(){
+    for (let i = 0; i < 5; i++) {
+        playRound();
+    }
+    let score = 
 }
