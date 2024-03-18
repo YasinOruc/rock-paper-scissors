@@ -27,11 +27,3 @@ function playRound(playerSelection, computerSelection) {
         return "Invalid input";
     }
 }
-
-
-function playGame(){
-    for (let i = 0; i < 5; i++) {
-        playRound();
-    }
-    let score = 
-}
