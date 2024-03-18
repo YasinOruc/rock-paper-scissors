@@ -8,11 +8,10 @@ Welcome to the "Rock Paper Scissors" project, a part of the Foundations Course. 
 - **Start Date:** March 16, 2023, 10:21 AM
 - **Completion Date:** March 18, 2023, 1:00 PM
 - **Location:** Odido Headquarters, Den Haag
-- **Special Note:** This project was completed during lunch breaks in the month of Ramadan.
+- **Special Note:** This project was completed during my lunch breaks at the Odido headquarters in The Hague, during the period of Ramadan.
 
 ## Development Environment
 - **Device Used:** MacBook
-- **Note:** The project was pre-planned to be completed during lunch breaks.
 
 ## Project Instructions
 ### Quick Exercises Before Starting:
